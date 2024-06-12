@@ -10,4 +10,4 @@
 
 ###Projetos 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSCarol&repo=TSCarol.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSCarol/TSCarol&repo=TSCarol.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
