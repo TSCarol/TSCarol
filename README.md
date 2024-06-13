@@ -8,10 +8,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TSCarol&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stata)
 
-### Projetos 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cartorioebac&repo=TSCarol.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TSCarol&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
